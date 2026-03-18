@@ -48,7 +48,7 @@ inside your console command::
         }
     }
 
-This exampe would output the following:
+This example would output the following:
 
 .. code-block:: terminal
 
